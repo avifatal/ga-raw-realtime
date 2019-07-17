@@ -19,3 +19,11 @@ export interface CollectData{
     _gid: string;
     z: string;
 }
+
+export interface AppConfig{
+    readonly dataSetName: string,
+    readonly collectTableName: string,
+    readonly port: number,
+    readonly topicName: string,
+    readonly queueHandlerName: string
+}
