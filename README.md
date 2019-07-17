@@ -19,5 +19,5 @@ The project right now is in its initial state and shopping around for features s
 For now, the entire stack will be deployed in Google Cloud Platform   
 
 ## Inspired by:
-[https://github.com/lnklnklnk/ga-bq](https://github.com/lnklnklnk/ga-bq)
+[https://github.com/lnklnklnk/ga-bq](https://github.com/lnklnklnk/ga-bq)  
 [https://www.owox.com/products/bi/pipeline/google-analytics-to-google-bigquery-streaming/#all-questions](https://www.owox.com/products/bi/pipeline/google-analytics-to-google-bigquery-streaming/#all-questions)
